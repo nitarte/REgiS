@@ -71,4 +71,5 @@
 ### СКАЧАТЬ
 
 **https://github.com/nitarte/REgiS/releases/tag/Minecraft**
+
 **https://modrinth.com/plugin/regis**
