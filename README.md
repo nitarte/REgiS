@@ -31,13 +31,15 @@
 ### Вид: 
 
 **UI сайта**
-![UI сайта](Screenshot_1.png)
+<img width="1203" height="774" alt="Screenshot_3" src="https://github.com/user-attachments/assets/ae080339-64aa-444a-90cd-8a1567fbc52a" />
 
 **Config плагина**
-![config плагина](Screenshot_2.png)
+<img width="1006" height="573" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1c4c5448-981a-4a26-a52b-59d9d1c0bdea" />
 
-**Видео демонстрация:**
-[Смотреть на YouTube](https://www.youtube.com/watch?v=DlFp3N0PQVE)
+
+### Видео демонстрация
+
+[![Смотреть видео](https://img.youtube.com/vi/DlFp3N0PQVE/maxresdefault.jpg)](https://www.youtube.com/watch?v=DlFp3N0PQVE)
 
 ---
 
