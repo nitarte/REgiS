@@ -40,7 +40,7 @@
 
 ### Видео демонстрация
 
-[](https://www.google.com/search?q=%5Bhttps://www.youtube.com/watch%3Fv%3DDlFp3N0PQVE%5D\(https://www.youtube.com/watch%3Fv%3DDlFp3N0PQVE\))
+[СМОТРЕТЬ](https://www.youtube.com/watch?v=DlFp3N0PQVE)
 
 -----
 
