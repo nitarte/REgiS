@@ -73,5 +73,5 @@
 
 | Площадка | Ссылка на скачивание |
 | :--- | :--- |
-| **GitHub** | [**Latest Release (Minecraft)**](https://github.com/nitarte/REgiS/releases/tag/Minecraft) |
+| **GitHub** | [**Latest Release (Minecraft)**](https://github.com/nitarte/REgiS/releases) |
 | **Modrinth** | [**REgiS Project Page**](https://modrinth.com/plugin/regis) |
